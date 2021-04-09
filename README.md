@@ -1,0 +1,3 @@
+Hello, I am Luke Callaghan, a Junior at Rutgers University New Brunswick in the Computer Science Major.  I have been programming since my Junior year of High School.  
+
+I have worked on many projects in this time, and this GitHub features just a few of them.  Just about every programming language / paradigm that I have encountered, I have loved and I am always trying to find new things to explore and learn.  From super high-level languages like Javascript and Python, alongside their popular server platforms, NodeJS and Django, all the way down to the nitty gritty low-level stuff like C and Rust, I have learned many different languages since I've started programming.  I am always trying out new things and exploring the different fields of Computer Science.
